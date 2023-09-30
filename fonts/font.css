@@ -12,6 +12,6 @@
     src:
       url(./Raleway-ExtraBold.woff2) format('woff2'),
       url(./Raleway-ExtraBold.woff) format('woff');
-    font-weight: bolder;
+    font-weight: bold;
     font-display: swap;
   }
